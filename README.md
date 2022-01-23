@@ -9,4 +9,4 @@ GITHUB_REPO=
 GITHUB_PAGE=
 ```
 
-Please refer to the description of Homework-1, Full-Stack JavaScript (Fall 2021) for details.
+Please refer to the description of Homework-1, Full-Stack JavaScript (Spring 2022) for details.
